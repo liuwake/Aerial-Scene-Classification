@@ -7,6 +7,9 @@ Aerial Scene (Aerial Image, Remote Sense Image Scene)
 
 ## Researcher
 
+## GitProj
+- https://github.com/robmarkcole/satellite-image-deep-learning s290
+- https://github.com/CyrusChiu/Image-recognition s37
 
 # 面向入门者的说明
 
