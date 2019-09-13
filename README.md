@@ -5,6 +5,13 @@ Aerial Scene (Aerial Image, Remote Sense Image Scene)
 
 ## Paper
 
+## Book
+- [豆列AerialScene](https://www.douban.com/doulist/119702667/)
+
+    备用|书名|出版年|重点|难度|点评
+    --|--|--|--|--|--|
+    ||高分辨率遥感图像理解 |2011|理解|⭐⭐⭐⭐|还行
+
 ## Researcher
 
 ## GitProj
